@@ -1,0 +1,10 @@
+Questão Livro:
+	
+	Crie uma classe Livro que possua: Autor (CPF, nome e endereço),
+	Editora (CNPJ, nome, endereço e telefone), ISBN, titulo e ano de edição. Crie um
+	sistema que forneça as seguintes opções:
+	1. Cadastrar livro
+	2. Buscar livro por titulo (Buscar livro pelo titulo)
+	3. Listar livros por autor (Mostrar os livros buscando pelo nome do autor)
+	4. Listar todos os livros (Mostrar todos os livros cadastrados)
+	0. Sair

@@ -1,0 +1,9 @@
+Questão Maior Salários:
+	
+	Escreva um programa que controle os funcionários de uma empresa. É
+	necessário saber o nome e o salário desses funcionários. Escreva um método que receba
+	uma lista de funcionários e retorne os que recebem mais que R$ 5.000,00. Crie uma
+	classe teste que forneça as seguintes opções:
+	1. Cadastrar um funcionário
+	2. Exibir os funcionários de alta renda
+	0. Sair

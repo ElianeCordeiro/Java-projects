@@ -1,0 +1,13 @@
+Questão Animais:
+	
+	Crie uma classe Animal que contém um nome, comprimento, número de
+	patas (o padrão é 4), uma cor, ambiente e uma velocidade (em m/s).
+	Um peixe é um animal, tem 0 patas, o seu ambiente é o mar (padrão), cor cinzenta
+	(padrão). Além disso, o peixe tem como característica: barbatanas e cauda;
+	Um mamífero é um animal, o seu ambiente é a terra (padrão) e também possui como
+	característica o alimento preferido;
+	Crie uma classe Teste e nela ofereça as seguintes opções:
+	1) Incluir dados relativo a um peixe;
+	2) Incluir dados relativo a um mamífero;
+	3) Listar todos os animais cadastrados;
+	4) Lista todos os peixes cadastrados

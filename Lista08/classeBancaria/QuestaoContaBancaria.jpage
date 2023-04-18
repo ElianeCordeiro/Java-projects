@@ -1,0 +1,12 @@
+Questão Conta Bancária:
+	Faça um sistema que gerencie as contas de um banco. A classe conta
+	possui: número, Banco (número da agencia e nome da agência), Cliente (nome e
+	CPF) e o saldo. Crie uma classe teste que forneça as seguintes opções:
+	1. Cadastrar Conta
+	2. Realizar depósito (Buscar pelo CPF do cliente)
+	3. Realizar saque (Buscar pelo CPF do cliente)
+	4. Verificar saldo (Buscar pelo CPF do cliente)
+	5. Consultar número e nome da agência (Mostrar nome e o CPF do cliente)
+	6. Alterar o número e nome da agência (Buscar pelo nome do cliente)
+	0. Sair
+	Obs.: O sistema deve permitir o cadastro de 10 (dez) clientes.

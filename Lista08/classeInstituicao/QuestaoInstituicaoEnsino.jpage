@@ -1,0 +1,19 @@
+Questao instituição de ensino:
+	
+	03: Crie um sistema que controle as turmas de uma instituição de ensino.
+	Cada turma tem um código, nome e os estudantes que fazem parte daquela turma.
+	Cada turma pode ter no máximo 10 (dez) estudantes. É preciso guardar as
+	seguintes informações sobre os estudantes: matrícula, nome e 04 (quatro) notas. O
+	sistema deve fornecer as seguintes opções:
+	1. Cadastrar turma (O sistema deve permitir armazenar 10 turmas)
+	2. Cadastrar estudante (É necessário buscar uma turma pelo código Antes de
+	adicionar um estudante)
+	3. Listar turmas (Exibir todas as turmas cadastradas)
+	4. Listar estudantes por turma (Buscar turma pelo código)
+	5. Consultar média de um estudante (Buscar pelo código da turma e número
+	de matrícula do estudante)
+	6. Alterar notas de um estudante (Buscar pelo código da turma e número de
+	matrícula do estudante)
+	7. Exibir média dos estudantes de uma turma (Buscar pelo código da turma e
+	exibir a média dos estudantes da referida turma)
+	0. Sair

@@ -1,0 +1,17 @@
+Questão Contas:
+	
+	Crie uma classe ContaBancaria, que contém os atributos nome do cliente,
+	num_conta, saldo e os métodos sacar (o saldo não pode ficar negativo) e depositar. Crie
+	duas classes herdadas de ContaBancaria: ContaPoupança e ContaEspecial, com as
+	seguintes características a mais: Classe ContaPoupança tem o atributo dia de
+	rendimento e o
+	calcularNovoSaldo, recebe a taxa de rendimento da poupança e atualiza o saldo. Já a
+	classe ContaEspecial possui o atributo limite é uma redefinição no métodos sacar,
+	permitindo saldo negativo até o valor do limite. Crie uma classe Teste e nela ofereça as
+	seguintes opções:
+	1) Incluir dados relativos a conta de um cliente (Limitado a 5 contas);
+	2) Sacar um determinado valor de uma conta (Procure pelo número da conta);
+	3) Depositar um determinado valor na sua conta (Procure pelo número da conta);
+	4) Mostrar o novo saldo do cliente, a partir da taxa de rendimento, daqueles que
+	possuem conta poupança;
+	5) Mostrar os dados de todas as contas cadastradas.

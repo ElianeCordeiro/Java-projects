@@ -1,0 +1,11 @@
+Questao Escola:
+	
+	Escreva um programa para gerenciar uma escola. O programa deve
+	controlar o cadastro dos estudantes. Sobre os estudantes, é necessário saber a matricula,
+	nome e duas notas. Além disso, a classe estudante possui um método para calcular a
+	média. Crie uma classe teste que forneça as seguintes opções:
+
+	1. Cadastrar um estudante
+	2. Obter o nome do estudante (procurar pela matricula)
+	3. Calcular a média (informar se o estudante foi aprovado ou não)
+	0. Sair

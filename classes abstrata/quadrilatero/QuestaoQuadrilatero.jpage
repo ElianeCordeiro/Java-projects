@@ -1,0 +1,27 @@
+Questão Quadriláteros:
+	
+	Questão 1- Implemente uma classe abstrata de nome Quadrilátero onde são declarados dois
+	métodos abstratos:
+	 float calcularArea();
+	 float calcularPerimetro();
+	
+	Questão 2- Crie, como subclasse de Quadrilátero, uma classe de nome Retângulo cujas
+	instâncias são caracterizadas pelos atributos lado e altura ambos do tipo float. Implemente na
+	classe Retângulo os métodos herdados de Quadrilátero e outros que ache necessários.
+	
+	Questão 3- Crie, como subclasse de Quadrilátero, uma classe de nome Circulo cujas instâncias
+	são caracterizadas pelo atributo raio do tipo float. Implemente na classe Circulo os métodos
+	herdados de Quadrilátero e outros que ache necessários.
+	
+	Questão 4- Crie, como subclasse de Retângulo, uma classe de nome Quadrado cujas instâncias
+	são caracterizadas por terem os atributos lado e altura com o mesmo valor.
+	
+	Questão 5- Elabore um programa de teste onde é declarado um array, de dimensão 10, do tipo
+	estático Quadrilátero. Nesse array devem ser guardadas instâncias de Retângulo, Circulo e
+	Quadrado. De as seguintes opções para o usuário:
+
+	1. Cadastrar Retângulo
+	2. Cadastrar Circulo
+	3. Cadastrar Quadrado
+	4. Mostrar o valor de todas as área
+	5. Mostrar o valor de todas os perímetros
